@@ -5,4 +5,3 @@ sklearn.model_selection
 sklearn
 sklearn.metrics
 sklearn.linear_model
-pickle
