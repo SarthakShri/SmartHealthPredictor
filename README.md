@@ -16,6 +16,8 @@ This app currently predicts 3 types of diseases :-
  <p>The disease detection models aim to bring the medical and artificial intelligence (AI) fields
   together so that people can understand how well AI and medicine can work together.</p>
  <br>
+ <p>By using different types of data mining and machine learning techniques to predict the occurrence of heart disease have summarized. </p>
+ <br>
 <b>We are continuing to improve our models efficiency and also trying to add more predictors as well!</b>
 <br>
 <br>
