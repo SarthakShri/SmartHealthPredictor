@@ -16,5 +16,6 @@ This app currently predicts 3 types of diseases :-
  <p>The disease detection models aim to bring the medical and artificial intelligence (AI) fields
   together so that people can understand how well AI and medicine can work together.</p>
  <br>
-<b>We are continuing to improve our models efficincy and also trying to add more predictors as well!</b>
+<b>We are continuing to improve our models efficiency and also trying to add more predictors as well!</b>
+<p>In the future, it can be planned to experiment with more methods of feature selection such as Ant Colony optimization, particle swarm optimization to further improve the system performance. It may also be planned to develop a system to diagnose heart disease using deep learning methods. Furthermore, there is a possibility to extend the proposed methodology to diagnose other chronic diseases such as chronic kidney disease and cancer. It is also planned to deploy the system under the supervision of a doctor to test the performance of the system through real data in real time.</p>
  
