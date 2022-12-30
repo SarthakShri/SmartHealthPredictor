@@ -13,8 +13,5 @@ This app currently predicts 3 types of diseases :-
 ![Screenshot 2022-12-18 at 1 23 51 PM](https://user-images.githubusercontent.com/72563740/208288306-71d9a87d-39eb-4372-acd9-8288d490d0d1.jpg)
 ![Screenshot 2022-12-18 at 1 24 36 PM](https://user-images.githubusercontent.com/72563740/208288309-50e104f4-933a-498b-a021-0a1dd7a8b4db.jpg)
 
- <p>The disease detection models aim to bring the medical and artificial intelligence (AI) fields
-  together so that people can understand how well AI and medicine can work together.</p>
- <br>
-<b>We are continuing to improve our models efficincy and also trying to add more predictors as well!</b>
+<b>We are continuing to improve our models efficiency and also trying to add more predictors as well!</b>
  
